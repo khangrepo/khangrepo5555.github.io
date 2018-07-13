@@ -1,1 +1,2 @@
-# khangrepo.github.io
+Sử dụng tên miền riêng cho Website
+Bạn muốn sử dụng một tên miền đã đăng kí được cho website của mình, ví dụ: vietanhdev.com, blog.vietanhdev.com, tenban.net, trước hết chúng ta cần thay đổi bản ghi DNS của tên miền để trỏ tới hosting của Github Pages. Bạn hãy thêm bản ghi A (A record) tại phần thiết lập DNS của tên miền trỏ tới 192.30.252.153 và 192.30.252.154. Ở đây tôi sử dụng dịch vụ DNS của Cloudflare.
